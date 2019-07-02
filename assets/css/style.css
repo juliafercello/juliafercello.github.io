@@ -1,0 +1,21 @@
+#iconDiv {
+     margin: 0 4px 0 0
+}
+
+i, .btn-flat {
+    color: white; 
+    margin: 5px
+}
+
+img {
+    padding: 10px; 
+}
+
+.samesize {
+    min-height: 454px;
+    max-height: 454px
+}
+
+.tabs-content.carousel .carousel-item { 
+    height:auto; 
+}
